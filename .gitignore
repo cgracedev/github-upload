@@ -1,0 +1,4 @@
+#gitignore - ignored files
+
+#let's ignore text files for now
+.txt
